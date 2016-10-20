@@ -722,7 +722,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [fullPage](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
 * [ScrollMenu](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
-
+* [WOW.js](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page.
 
 ## Menu
 
@@ -825,7 +825,6 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possiblities
 * [shuffle-images](https://github.com/peachananr/shuffle-images) -  The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html 
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery. http://smoothstate.com/ 
-
 ## Image Processing
 
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
